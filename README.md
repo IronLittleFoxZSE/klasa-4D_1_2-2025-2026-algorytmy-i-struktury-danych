@@ -1,5 +1,8 @@
 # klasa-4D_1_2-2025-2026-algorytmy-i-struktury-danych
 
+Zadania można wykonać w draw.io
+
+
 Zadanie 1:
 Suma liczb od 1 do N
 * Wczytaj liczbę N
