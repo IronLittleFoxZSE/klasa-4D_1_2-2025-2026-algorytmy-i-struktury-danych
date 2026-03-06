@@ -1,5 +1,16 @@
 # klasa-4D_1_2-2025-2026-algorytmy-i-struktury-danych
 
+Kartkówka systemy liczbowe
+
+Grupa 1
+
+https://forms.office.com/e/cmrF9zB3Aa
+
+Grupa 2
+
+https://forms.office.com/e/GJDEmqJh27
+
+
 Zadania można wykonać w draw.io
 
 
