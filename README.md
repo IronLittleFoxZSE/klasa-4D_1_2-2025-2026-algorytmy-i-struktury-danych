@@ -16,11 +16,11 @@ Kartkówka systemy liczbowe
 
 Grupa 1
 
-
+https://forms.office.com/e/BcbQwMhyrz
 
 Grupa 2
 
-
+https://forms.office.com/e/g8Z5ea8N4v
 
 
 Zadania można wykonać w draw.io
